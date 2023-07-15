@@ -1,15 +1,15 @@
-title: 
-description: 
-image: https://ipfs.io/ipfs/
+title: The Amigos
+description: The amigos are on a journey, and on their way they create friendships and new ideas. Digital art, randomized traits.
+image: https://gateway.ipfs.io/ipfs/bafybeigpjf32vhvosbnpl22zrwzydhatjkmtryn5iayxrvzmq6blx4lxb4/1.png
 mintAddresses:
-  - 
+  - 9iJDda6afaTUX4ik6sULwv2bwedcjvnNKBvWD6AHU8fVMGaKorB
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/Amigos_Erg
     icon: fa-brands fa-twitter fa-fw
   - label: Discord
-    url: https://discord.com/invite/
+    url: https://discord.com/invite/T8dsqPNDZ3
     icon: fa-brands fa-discord fa-fw
   - label: Website
-    url: 
+    url: https://www.amigosergo.io/
     icon: fa-solid fa-globe fa-fw
